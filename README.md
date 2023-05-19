@@ -1,2 +1,2 @@
 # tomi-repo
-Este codigo recorta silencios de un video.
+Una pagina que recorta los silencios de un video.
